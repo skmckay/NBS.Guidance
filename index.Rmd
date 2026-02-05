@@ -97,5 +97,6 @@ Insert preamble.
 - [Case study platform from the Nature Based Solutions Initiative](https://casestudies.naturebasedsolutionsinitiative.org/case-search/)  
 - [Inter-American Development Bank examples from Latin America and the Caribbean](https://publications.iadb.org/en/nature-based-solutions-latin-america-and-caribbean-support-inter-american-development-bank) (Appendix A)  
 - [City Adapt database for Latin America](https://cityadapt.com/en/nbs-implemented/)  
-- [National River Restoration Science Synthesis](https://khondula.github.io/nrrss/)
+- [National River Restoration Science Synthesis](https://khondula.github.io/nrrss/)  
+- [International Stormwater BMP Database](https://bmpdatabase.org/)
 
