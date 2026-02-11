@@ -59,13 +59,15 @@ Repositories and hubs of information:
 - [EcoShape](https://www.ecoshape.org/en/)  
 - [Conservation International's Green-Gray Community of Practice](https://www.conservation.org/projects/global-green-gray-community-of-practice)  
 - [PIANC's Working With Nature Initiative](https://www.pianc.org/working-with-nature/)  
-- [World Wildlife Foundation's Flood Green Guide](https://www.worldwildlife.org/publications/natural-and-nature-based-flood-management-a-green-guide/)
+- [Green Infrastructure Leadership Exchange](https://giexchange.org/)
+- [Nature-based infrastructure global resource centre](https://nbi.iisd.org/)
 
 Planning and project initiation manuals:
 
 - [International Guidelines on Natural and Nature-Based Features for Flood Risk Management](https://ewn.erdc.dren.mil/international-guidelines-on-natural-and-nature-based-features-for-flood-risk-management/)  
 - [Australian manual on flood mitigation](https://iceds.anu.edu.au/news-events/news/nature-based-solutions-flood-mitigation-australia-national-guidelines)  
 - [US Department of Interior's NBS Roadmap](https://nicholasinstitute.duke.edu/project/nature-based-solutions-roadmap)
+- [World Wildlife Foundation's Flood Green Guide](https://www.worldwildlife.org/publications/natural-and-nature-based-flood-management-a-green-guide/)
 
 
 # **Alternative Analysis Resources**
@@ -139,5 +141,6 @@ Many practitioners like to see example projects and follow these as a template f
 - [City Adapt database for Latin America](https://cityadapt.com/en/nbs-implemented/)  
 - [National River Restoration Science Synthesis](https://khondula.github.io/nrrss/)  
 - [International Stormwater BMP Database](https://bmpdatabase.org/)  
-- [Duke's NBS Financing case study database](https://nicholasinstitute.duke.edu/project/nature-finance-case-study-library)
+- [Duke's NBS Financing case study database](https://nicholasinstitute.duke.edu/project/nature-finance-case-study-library)  
+- [Nature-based infrastructure global resource centre's database](https://nbi.iisd.org/database/)
 
