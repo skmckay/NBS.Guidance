@@ -142,5 +142,7 @@ Many practitioners like to see example projects and follow these as a template f
 - [National River Restoration Science Synthesis](https://khondula.github.io/nrrss/)  
 - [International Stormwater BMP Database](https://bmpdatabase.org/)  
 - [Duke's NBS Financing case study database](https://nicholasinstitute.duke.edu/project/nature-finance-case-study-library)  
-- [Nature-based infrastructure global resource centre's database](https://nbi.iisd.org/database/)
+- [Nature-based infrastructure global resource centre's database](https://nbi.iisd.org/database/)  
+- [ICSI's Climate Resilient Infrastructure case studies](https://sustainability-coalition.org/wp-content/uploads/2024/06/Climate-Resilient-Infrastructure_A-Focus-on-Nature_Issue-2.pdf)
+
 
