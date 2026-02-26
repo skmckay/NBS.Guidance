@@ -60,7 +60,8 @@ Repositories and hubs of information:
 - [Conservation International's Green-Gray Community of Practice](https://www.conservation.org/projects/global-green-gray-community-of-practice)  
 - [PIANC's Working With Nature Initiative](https://www.pianc.org/working-with-nature/)  
 - [Green Infrastructure Leadership Exchange](https://giexchange.org/)
-- [Nature-based infrastructure global resource centre](https://nbi.iisd.org/)
+- [Nature-based infrastructure global resource centre](https://nbi.iisd.org/)  
+- [Canada's natural assets initiative](https://naturalassetsinitiative.ca/)
 
 Planning and project initiation manuals:
 
@@ -143,6 +144,7 @@ Many practitioners like to see example projects and follow these as a template f
 - [International Stormwater BMP Database](https://bmpdatabase.org/)  
 - [Duke's NBS Financing case study database](https://nicholasinstitute.duke.edu/project/nature-finance-case-study-library)  
 - [Nature-based infrastructure global resource centre's database](https://nbi.iisd.org/database/)  
-- [ICSI's Climate Resilient Infrastructure case studies](https://sustainability-coalition.org/wp-content/uploads/2024/06/Climate-Resilient-Infrastructure_A-Focus-on-Nature_Issue-2.pdf)
+- [ICSI's Climate Resilient Infrastructure case studies](https://sustainability-coalition.org/wp-content/uploads/2024/06/Climate-Resilient-Infrastructure_A-Focus-on-Nature_Issue-2.pdf)  
+- [UK Catchment Planning Programme](https://environment.data.gov.uk/catchment-planning)
 
 
