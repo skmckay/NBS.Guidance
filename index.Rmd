@@ -94,18 +94,27 @@ These are resources for helping engineers and designers navigate alternatives an
   - [Channel restoration design for meandering rivers (Soar and Thorne 2001)](https://erdc-library.erdc.dren.mil/items/81b728f7-5f5f-4ef8-e053-411ac80adeb3)
   - [Channel design process (Haring and Biedenharn 2025)](https://erdc-library.erdc.dren.mil/items/2eb705a7-1941-4f00-8f35-34c64199c2a9)  
   - [NRCS Stream Restoration Handbook (2007)](https://www.epa.gov/system/files/documents/2022-11/U.S.%20Department%20of%20Agriculture%2C%20Stream%20Restoration%20Design.pdf)
+  - [Design of River Training Structures Using Isogeomorphic Constraints](https://dx.doi.org/10.21079/11681/50042)
   
 - Wetland design  
   - [Wetlands Engineering Handbook (Hayes et al. 2000)](https://erdc-library.erdc.dren.mil/items/81b728f7-7371-4ef8-e053-411ac80adeb3)
   - EPA Wetland Creation and Restoration guidance (Kusler and Kentula 1989): [Volume 1](https://www.nawm.org/pdf_lib/wetland_creation_restoration_vol_1.pdf), [Volume 2](https://www.epa.gov/sites/default/files/2015-08/documents/wetland_creation_and_restoration_-_the_status_of_the_science_vol_2_1.pdf)  
   - [Interagency guidance on wetland creation (2003)](https://www.csu.edu/cerc/documents/AnIntroductionandUsersGuidetoWetlandsRestoration.pdf)
   - [Federal Highways Administration wetland functional design manual (1990)](https://www.intrans.iastate.edu/wp-content/uploads/sites/10/2019/01/PB91110569.pdf)
+
 - Ports and harbors  
   - [Nature-Based Solutions for Ports: An Overview of NBS Implementation in Practice - Opportunities and Challenges](https://openknowledge.worldbank.org/entities/publication/f6e6b4cb-74c0-4bef-ab5c-da6cc0bdbebe)  
+  - [TNC's Sediment Strategies](https://www.nature.org/en-us/about-us/where-we-work/united-states/maryland-dc/stories-in-maryland-dc/sediment-strategies/)  
+
 - Disaster management  
+
 - Coastal engineering resources (extremely cherry-picked and mostly for context)  
   - [USACE Coastal Engineering Manual](https://www.publications.usace.army.mil/USACE-Publications/Engineer-Manuals/u43544q/636F617374616C20656E67696E656572696E67206D616E75616C/)  
   - [Emergent vegetation in coastal infrastructure (Ostrow et al. 2022)](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2022.923965/full)
+
+- Stormwater management  
+  - [West Point Military Academy's stormwater inspection and maintenance guide](https://dx.doi.org/10.21079/11681/46933)  
+  - [Columbus Ohio's Inspection & Maintenance Guidance for Stormwater Control Practices](https://www.columbus.gov/files/sharedassets/city/v/1/utilities/documents/sewer-publications/scp-inspection-and-maintenance-manual.jan-2022.pdf)  
 
 
 # **Performance-based Design of Features**
