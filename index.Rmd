@@ -76,25 +76,37 @@ Planning and project initiation manuals:
 These are resources for helping engineers and designers navigate alternatives analysis. These documents typically focus on a given problem type (e.g., floodplain management) and present a variety of alternatives with the relative benefits of each described. This list is very incomplete, and I have added links in an ad hoc, unstructured way as I have time.
 
 - Floodplain management  
+  - Analysis of Potential Actions to Enhance Floodplain Connectivity (Nash et al. *forthcoming*)  
+  - [Flood diversions and bypasses: Benefits and challenges (Serra-Llobet et al. 2021)](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wat2.1562)  
+  - [TNC Oxbow reconnection toolkit](https://www.nature.org/content/dam/tnc/nature/en/documents/Oxbow-Restoration-Toolkit.pdf)  
+
 - Bank Stabilization  
   - [German Federal Waterways materials](https://ufersicherung-baw-bfg.baw.de/index-en.html)  
   - [United Kingdom Estuary Edges Approach](https://www.estuaryedges.co.uk/)  
   - [U.S. Federal Interagency Stream Restoration Working Group (1997)](https://www3.uwsp.edu/cnr-ap/UWEXLakes/PublishingImages/resources/restoration-project/StreamRestorationHandbook.pdf)  
   - [US Department of Agriculture engineering manual for stream restoration](https://policy.nrcs.usda.gov/searchdirective/210%20H%20Part%20654)
   - [US Bureau of Reclamation (2015)](https://www.usbr.gov/tsc/techreferences/mands/mands-pdfs/A-BankStab-final6-25-2015.pdf)  
-  - [US National Cooperative Highway Research Program (2005)](https://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_rpt_544.pdf)  
   - [US Army Corps of Engineers (1997)](https://hdl.handle.net/11681/9983)  
   - [US National Large Wood Manual](https://ewn.erdc.dren.mil/publications/archive/national-large-wood-manual/)  
+  - [USACE bioengineering for streambank erosion control (Allen and Leech 1997)](https://www.engr.colostate.edu/~bbledsoe/CIVE413/Bioengineering_for_Streambank_Erosion_Control_report1.pdf)  
+  - [NCHRP Environmentally Sensitive Channel- and Bank-Protection Measures (McCullah and Gray 2005)](https://onlinepubs.trb.org/onlinepubs/nchrp/nchrp_rpt_544.pdf)
+  - [NRCS Engineering Field Handbook - Streambank and shoreline protection (Sotir 1996)](https://irrigationtoolbox.com/NEH/Part650_EngineeringFieldHandbook/H_210_650_16.pdf)  
   - PIANC Committee on Technical-Biological bank stabilization  
     - [Part 1: Basics of a best practice approach](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-1-basics-of-a-best-practice-approach/)    
     - [Part 2: Library of measures](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-2-library-of-measures/)  
     - [Part 3: Decision support advice](https://www.pianc.org/publication/technical-biological-bank-protections-for-inland-waterways-part-3-decision-support-advice/)  
-- River modification  
+
+- River modification and stream restoration  
   - [Hydraulic design of stream restoration projects (Copeland et al. 2001)](https://erdc-library.erdc.dren.mil/items/81b728f7-6fee-4ef8-e053-411ac80adeb3)  
   - [Channel restoration design for meandering rivers (Soar and Thorne 2001)](https://erdc-library.erdc.dren.mil/items/81b728f7-5f5f-4ef8-e053-411ac80adeb3)
   - [Channel design process (Haring and Biedenharn 2025)](https://erdc-library.erdc.dren.mil/items/2eb705a7-1941-4f00-8f35-34c64199c2a9)  
-  - [NRCS Stream Restoration Handbook (2007)](https://www.epa.gov/system/files/documents/2022-11/U.S.%20Department%20of%20Agriculture%2C%20Stream%20Restoration%20Design.pdf)
-  - [Design of River Training Structures Using Isogeomorphic Constraints](https://dx.doi.org/10.21079/11681/50042)
+  - [NRCS Stream Restoration Handbook (2007)](https://www.epa.gov/system/files/documents/2022-11/U.S.%20Department%20of%20Agriculture%2C%20Stream%20Restoration%20Design.pdf)  
+  - [Federal Interagency Stream Restoration Working Group (1998)](https://www.thecre.com/fedlaw/legal14water/stream_restoration.htm)  
+  - [USFS Guidance for Stream Restoration (Yochum 2018)](https://www.fs.usda.gov/biology/nsaec/assets/yochumusfs-nsaec-tn102-4guidancestreamrestoration.pdf)  
+  - [USACE stream investigation and streambank stabilization handbook (Biedenharn et al. 1997)](https://www.engr.colostate.edu/~pierre/ce_old/classes/ce717/WES%20Streambank%20Handbook.pdf)
+  - [Design of River Training Structures Using Isogeomorphic Constraints](https://dx.doi.org/10.21079/11681/50042)  
+  - [Iowa River Restoration Toolbox](https://www.iowadnr.gov/environmental-protection/water-quality/river-restoration)
+  - [Philadelphia stream and ecological restoration design resources](https://water.phila.gov/contractors/ecological-restoration/)  
   
 - Wetland design  
   - [Wetlands Engineering Handbook (Hayes et al. 2000)](https://erdc-library.erdc.dren.mil/items/81b728f7-7371-4ef8-e053-411ac80adeb3)
@@ -106,25 +118,31 @@ These are resources for helping engineers and designers navigate alternatives an
   - [Nature-Based Solutions for Ports: An Overview of NBS Implementation in Practice - Opportunities and Challenges](https://openknowledge.worldbank.org/entities/publication/f6e6b4cb-74c0-4bef-ab5c-da6cc0bdbebe)  
   - [TNC's Sediment Strategies](https://www.nature.org/en-us/about-us/where-we-work/united-states/maryland-dc/stories-in-maryland-dc/sediment-strategies/)  
 
-- Disaster management  
-
-- Coastal engineering resources (extremely cherry-picked and mostly for context)  
-  - [USACE Coastal Engineering Manual](https://www.publications.usace.army.mil/USACE-Publications/Engineer-Manuals/u43544q/636F617374616C20656E67696E656572696E67206D616E75616C/)  
-  - [Emergent vegetation in coastal infrastructure (Ostrow et al. 2022)](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2022.923965/full)
-
 - Stormwater management  
   - [West Point Military Academy's stormwater inspection and maintenance guide](https://dx.doi.org/10.21079/11681/46933)  
   - [Columbus Ohio's Inspection & Maintenance Guidance for Stormwater Control Practices](https://www.columbus.gov/files/sharedassets/city/v/1/utilities/documents/sewer-publications/scp-inspection-and-maintenance-manual.jan-2022.pdf)  
+  - [Philadelphia Stormwater Management Design Manual](https://water.phila.gov/development/stormwater-plan-review/manual/)
+
+- Coastal engineering resources (extremely cherry-picked and mostly for context)  
+  - [USACE Coastal Engineering Manual](https://www.publications.usace.army.mil/USACE-Publications/Engineer-Manuals/u43544q/636F617374616C20656E67696E656572696E67206D616E75616C/)  
+  - [USACE design of coastal revetments, seawalls, and bulkheads](https://www.publications.usace.army.mil/Portals/76/Publications/EngineerManuals/EM_1110-2-1614.pdf)  
+  - [USACE Engineering Design Guidance for Detached Breakwaters as Shoreline Stabilization Structures](https://digital.library.unt.edu/ark:/67531/metadc304011/m2/1/high_res_d/metadc304011.pdf)
+  - [Emergent vegetation in coastal infrastructure (Ostrow et al. 2022)](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2022.923965/full)  
+  - [New Jersey living shoreline manual (2022)](https://www.nj.gov/dep/bcrp/docs/njlseg-update.pdf)  
+  - [Texas General Land Office living shorelines guide](https://www.glo.texas.gov/coastal/living-shorelines)
+  - [Delaware Living Shorelines Committee](https://www.delawarelivingshorelines.org/)
+  - [Federal Highways Administration shoreline erosion design guide (Webb et al. 2019)](https://rosap.ntl.bts.gov/view/dot/43591)  
+  - [Coastal Wiki](https://www.coastalwiki.org/wiki/Main_Page)
 
 
 # **Performance-based Design of Features**
 
 These manuals typically focus on implementing a specific type of feature and include detail on topics like material sizing, specifying geometry, etc.  
 
-- Floodplain benching
-  - [Floodplain benching design guide (Curran et al. 2025)](https://erdc-library.erdc.dren.mil/items/572b93a1-cc6c-4ca9-916d-a830cb2439d5)
-  - [Design of low flow channels (Fischenich 2002)](https://erdc-library.erdc.dren.mil/items/81b728f7-667f-4ef8-e053-411ac80adeb3)  
-  - Two-stage ditching (Powell et al. 2007): [Part 1](https://www.tandfonline.com/doi/abs/10.1080/00224561.2007.12435962), [Part 2](https://www.tandfonline.com/doi/abs/10.1080/00224561.2007.12435963)
+- [Floodplain benching design guide (Curran et al. 2025)](https://erdc-library.erdc.dren.mil/items/572b93a1-cc6c-4ca9-916d-a830cb2439d5)
+- [Design of low flow channels (Fischenich 2002)](https://erdc-library.erdc.dren.mil/items/81b728f7-667f-4ef8-e053-411ac80adeb3)  
+- Two-stage ditching (Powell et al. 2007): [Part 1](https://www.tandfonline.com/doi/abs/10.1080/00224561.2007.12435962), [Part 2](https://www.tandfonline.com/doi/abs/10.1080/00224561.2007.12435963)  
+- [Mangroves and wave overtopping (Ostrow et al. 2026)](https://ascelibrary.org/doi/full/10.1061/AOMJAH.AOENG-0092)
 - Oyster reefs  
 
 
@@ -135,7 +153,8 @@ Some design resources focus on a regional scope rather than a topical one. The m
 - [Sonoma County BMP Guide](https://permitsonoma.org/divisions/naturalresources/stormwaterandwaterqualityprograms/bestmanagementpractices/bestmanagementpracticeguide)  
 - [Sonoma County Flood Management Design Manual](https://www.sonomawater.org/media/PDF/Water%20Resources/Flood%20Protection/Flood%20Management%20Design%20Manual/FMDM_Main_Body_Mar2020_ADA%20v2.pdf)  
 - [Orange County Flood Control District Design Manual](https://ocip.ocpublicworks.com/sites/ocpwocip/files/2023-02/OCFCD%20DM%20-%202nd%20Ed_0.pdf)  
-- [Upper Mississippi River restoration design manual](https://www.mvr.usace.army.mil/Portals/48/docs/Environmental/UMRR/HREP/EMP_Documents/2012%20UMRR%20EMP%20Environmental%20Design%20Handbook%20-%20FINAL.pdf)  
+- [Upper Mississippi River restoration design manual](https://www.mvr.usace.army.mil/Portals/48/docs/Environmental/UMRR/HREP/EMP_Documents/2012%20UMRR%20EMP%20Environmental%20Design%20Handbook%20-%20FINAL.pdf) 
+- [Washington DFW stream habitat restoration guidelines (WDFW 2012)](https://wdfw.wa.gov/sites/default/files/publications/01374/wdfw01374.pdf)
 
 
 # **Case Studies Compilations**
