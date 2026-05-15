@@ -61,7 +61,8 @@ Repositories and hubs of information:
 - [PIANC's Working With Nature Initiative](https://www.pianc.org/working-with-nature/)  
 - [Green Infrastructure Leadership Exchange](https://giexchange.org/)
 - [Nature-based infrastructure global resource centre](https://nbi.iisd.org/)  
-- [Canada's natural assets initiative](https://naturalassetsinitiative.ca/)
+- [Canada's natural assets initiative](https://naturalassetsinitiative.ca/)  
+- [Greening Transportation Infrastructure Development (GRID)](https://gridip.org/)
 
 Planning and project initiation manuals:
 
@@ -126,7 +127,6 @@ These are resources for helping engineers and designers navigate alternatives an
 - Coastal engineering resources (extremely cherry-picked and mostly for context)  
   - [USACE Coastal Engineering Manual](https://www.publications.usace.army.mil/USACE-Publications/Engineer-Manuals/u43544q/636F617374616C20656E67696E656572696E67206D616E75616C/)  
   - [USACE design of coastal revetments, seawalls, and bulkheads](https://www.publications.usace.army.mil/Portals/76/Publications/EngineerManuals/EM_1110-2-1614.pdf)  
-  - [USACE Engineering Design Guidance for Detached Breakwaters as Shoreline Stabilization Structures](https://digital.library.unt.edu/ark:/67531/metadc304011/m2/1/high_res_d/metadc304011.pdf)
   - [Emergent vegetation in coastal infrastructure (Ostrow et al. 2022)](https://www.frontiersin.org/journals/built-environment/articles/10.3389/fbuil.2022.923965/full)  
   - [New Jersey living shoreline manual (2022)](https://www.nj.gov/dep/bcrp/docs/njlseg-update.pdf)  
   - [Texas General Land Office living shorelines guide](https://www.glo.texas.gov/coastal/living-shorelines)
@@ -144,6 +144,7 @@ These manuals typically focus on implementing a specific type of feature and inc
 - Two-stage ditching (Powell et al. 2007): [Part 1](https://www.tandfonline.com/doi/abs/10.1080/00224561.2007.12435962), [Part 2](https://www.tandfonline.com/doi/abs/10.1080/00224561.2007.12435963)  
 - [Mangroves and wave overtopping (Ostrow et al. 2026)](https://ascelibrary.org/doi/full/10.1061/AOMJAH.AOENG-0092)
 - Oyster reefs  
+- [USACE Engineering Design Guidance for Detached Breakwaters as Shoreline Stabilization Structures (Chasten et al. 1993)](https://digital.library.unt.edu/ark:/67531/metadc304011/m2/1/high_res_d/metadc304011.pdf)
 
 
 # **Regional Design Resources**
