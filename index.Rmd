@@ -133,6 +133,9 @@ These are resources for helping engineers and designers navigate alternatives an
   - [Delaware Living Shorelines Committee](https://www.delawarelivingshorelines.org/)
   - [Federal Highways Administration shoreline erosion design guide (Webb et al. 2019)](https://rosap.ntl.bts.gov/view/dot/43591)  
   - [Coastal Wiki](https://www.coastalwiki.org/wiki/Main_Page)
+  - [Low cost shore protection...A Property owner's guide (USACE 1982)](https://apps.dtic.mil/sti/tr/pdf/ADA112531.pdf)  
+  - [Low cost shore protection...A guide for engineers and contractors (USACE update)](https://dnr.maryland.gov/ccs/documents/ls/armycorps_contractorsguide.pdf)  
+  - [Shore erosion control guidelines for waterfront property owners, 2nd Edition (Maryland 2008)](https://dnr.maryland.gov/ccs/Publication/shoreerostext.pdf)
 
 
 # **Performance-based Design of Features**
