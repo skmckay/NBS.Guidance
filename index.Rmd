@@ -158,7 +158,8 @@ Some design resources focus on a regional scope rather than a topical one. The m
 - [Sonoma County Flood Management Design Manual](https://www.sonomawater.org/media/PDF/Water%20Resources/Flood%20Protection/Flood%20Management%20Design%20Manual/FMDM_Main_Body_Mar2020_ADA%20v2.pdf)  
 - [Orange County Flood Control District Design Manual](https://ocip.ocpublicworks.com/sites/ocpwocip/files/2023-02/OCFCD%20DM%20-%202nd%20Ed_0.pdf)  
 - [Upper Mississippi River restoration design manual](https://www.mvr.usace.army.mil/Portals/48/docs/Environmental/UMRR/HREP/EMP_Documents/2012%20UMRR%20EMP%20Environmental%20Design%20Handbook%20-%20FINAL.pdf) 
-- [Washington DFW stream habitat restoration guidelines (WDFW 2012)](https://wdfw.wa.gov/sites/default/files/publications/01374/wdfw01374.pdf)
+- [Washington DFW stream habitat restoration guidelines (WDFW 2012)](https://wdfw.wa.gov/sites/default/files/publications/01374/wdfw01374.pdf)  
+- [Texas Water Development Board NBS Manual (draft)](https://www.twdb.texas.gov/flood/planning/planningdocu/2028/index.asp)
 
 
 # **Case Studies Compilations**
