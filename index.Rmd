@@ -108,6 +108,7 @@ These are resources for helping engineers and designers navigate alternatives an
   - [Design of River Training Structures Using Isogeomorphic Constraints](https://dx.doi.org/10.21079/11681/50042)  
   - [Iowa River Restoration Toolbox](https://www.iowadnr.gov/environmental-protection/water-quality/river-restoration)
   - [Philadelphia stream and ecological restoration design resources](https://water.phila.gov/contractors/ecological-restoration/)  
+  - [NCHRP Guidance for Design Hydrology for Stream Restoration and Channel Stability (Bledsoe et al. 2017)](https://www.nationalacademies.org/publications/24879)
   
 - Wetland design  
   - [Wetlands Engineering Handbook (Hayes et al. 2000)](https://erdc-library.erdc.dren.mil/items/81b728f7-7371-4ef8-e053-411ac80adeb3)
